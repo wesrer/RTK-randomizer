@@ -1,0 +1,7 @@
+[package]
+name = "RTK-randomizer"
+version = "0.1.0"
+authors = ["wesrer"]
+edition = "2018"
+
+[dependencies]
